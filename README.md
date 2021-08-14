@@ -1,1 +1,1 @@
-# CSC201_Task_1
+# Starter code for Task 1 of CSC201
