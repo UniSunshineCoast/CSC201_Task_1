@@ -5,4 +5,5 @@ SELL mango 20 5.00
 DONATE grape 10
 WRITEOFF mango 15
 SELL grape 20 3.50
+CHECK
 PROFIT

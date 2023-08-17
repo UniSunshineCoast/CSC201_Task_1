@@ -4,4 +4,5 @@ ADD pear 40 2.50
 DONATE pear 10
 WRITEOFF peach 5
 SELL pear 15 4.50
+CHECK
 PROFIT

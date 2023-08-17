@@ -8,4 +8,5 @@ ADD orange 30 1.20
 SELL orange 10 2.40
 DONATE orange 5
 WRITEOFF apple 5
+CHECK
 PROFIT

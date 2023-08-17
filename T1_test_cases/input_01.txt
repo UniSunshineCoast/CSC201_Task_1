@@ -8,4 +8,5 @@ SELL apple 10 5.00
 SELL banana 5 2.50
 ADD apple 50 1.80
 SELL apple 40 2.50
+CHECK
 PROFIT
